@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Serkan Seven&#39;s Weblog</title>
+  
+  <subtitle>God is in the detail..</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://serkanseven.design/"/>
+  <updated>2017-11-10T09:53:35.000Z</updated>
+  <id>https://serkanseven.design/</id>
+  
+  <author>
+    <name>Serkan Seven</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World!</title>
+    <link href="https://serkanseven.design/2017/helloWorld/"/>
+    <id>https://serkanseven.design/2017/helloWorld/</id>
+    <published>2017-11-07T20:59:59.000Z</published>
+    <updated>2017-11-10T09:53:35.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>As it’s apparent from the title of the post, this is going to be a mostly programming, technology, software etc. related blog. Nevertheless, I’ll try to share about the books I read, films I see, things I recently learn and other stuffs worth sharing to save the blog from being savourless.. That’s all for now, hope I can persevere to write &amp; share much.</p><hr><p>Gönderinin başlığından anlaşıldığı üzere çoğunlukla programlama, teknoloji, yazılım vb. ile alakalı bir blog olacak. Ancak yine de okuduğum kitaplar, izlediğim filmler, yeni öğrendiklerim ve diğer paylaşmaya değer gördüğüm şeyler hakkında da mecrayı tatsız tuzsuz olmaktan kurtarabilmek adına paylaşımlarda bulunmaya çalışacağım. Şimdilik bu kadar umarım yazmak ve paylaşmak için sebat gösterebilirim.    </p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;As it’s apparent from the title of the post, this is going to be a mostly programming, technology, software etc. related blog. Neverthele
+      
+    
+    </summary>
+    
+      <category term="blog" scheme="https://serkanseven.design/categories/blog/"/>
+    
+    
+      <category term="about" scheme="https://serkanseven.design/tags/about/"/>
+    
+      <category term="firstPost" scheme="https://serkanseven.design/tags/firstPost/"/>
+    
+  </entry>
+  
+</feed>
